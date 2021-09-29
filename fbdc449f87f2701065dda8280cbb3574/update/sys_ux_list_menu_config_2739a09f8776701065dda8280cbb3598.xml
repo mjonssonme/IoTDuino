@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>IoTDuino_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2021-09-29 21:45:02</sys_created_on>
+        <sys_id>2739a09f8776701065dda8280cbb3598</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IoTDuino_menu_config</sys_name>
+        <sys_package display_value="IoTDuino" source="x_snc_iotduino">fbdc449f87f2701065dda8280cbb3574</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoTDuino">fbdc449f87f2701065dda8280cbb3574</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_2739a09f8776701065dda8280cbb3598</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2021-09-29 21:45:02</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>
