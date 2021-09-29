@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>IoT Weather Data</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="Mattias Johnsson">472c481f87f2701065dda8280cbb3509</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2021-09-29 21:38:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3bb7e81f8776701065dda8280cbb3511</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IoT Weather Data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IoTDuino" source="x_snc_iotduino">fbdc449f87f2701065dda8280cbb3574</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoTDuino">fbdc449f87f2701065dda8280cbb3574</sys_scope>
+        <sys_update_name>pa_dashboards_3bb7e81f8776701065dda8280cbb3511</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2021-09-29 21:38:42</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>

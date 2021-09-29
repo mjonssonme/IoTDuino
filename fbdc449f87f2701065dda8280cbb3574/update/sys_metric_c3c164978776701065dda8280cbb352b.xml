@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metric">
+    <sys_metric action="INSERT_OR_UPDATE">
+        <application_name>Platform</application_name>
+        <auto_promote>false</auto_promote>
+        <compact_aggregator>avg</compact_aggregator>
+        <dv_aggregator>last</dv_aggregator>
+        <dv_resample_hr>1</dv_resample_hr>
+        <element>pressure</element>
+        <label>Pressure</label>
+        <name>x_snc_iotduino_iotduino_metrics</name>
+        <retention_policy display_value="Dense">c742acc05b33220066c1290291f91a6d</retention_policy>
+        <subject_field>sys_id</subject_field>
+        <sys_class_name>sys_metric</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2021-09-29 21:12:57</sys_created_on>
+        <sys_id>c3c164978776701065dda8280cbb352b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Pressure</sys_name>
+        <sys_package display_value="IoTDuino" source="x_snc_iotduino">fbdc449f87f2701065dda8280cbb3574</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoTDuino">fbdc449f87f2701065dda8280cbb3574</sys_scope>
+        <sys_update_name>sys_metric_c3c164978776701065dda8280cbb352b</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2021-09-29 21:34:15</sys_updated_on>
+        <type>float</type>
+    </sys_metric>
+</record_update>

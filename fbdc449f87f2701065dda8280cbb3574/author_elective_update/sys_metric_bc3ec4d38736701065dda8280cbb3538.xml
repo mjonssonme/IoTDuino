@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metric">
+    <sys_metric action="DELETE">
+        <application_name>Platform</application_name>
+        <auto_promote>false</auto_promote>
+        <compact_aggregator>avg</compact_aggregator>
+        <dv_aggregator>last</dv_aggregator>
+        <dv_resample_hr>1</dv_resample_hr>
+        <element>metric</element>
+        <label>Metric</label>
+        <name>x_snc_iotduino_iotduino_metrics</name>
+        <retention_policy display_value="Dense">c742acc05b33220066c1290291f91a6d</retention_policy>
+        <subject_field>sys_id</subject_field>
+        <sys_class_name>sys_metric</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2021-09-29 19:48:32</sys_created_on>
+        <sys_id>bc3ec4d38736701065dda8280cbb3538</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Metric</sys_name>
+        <sys_package display_value="IoTDuino" source="x_snc_iotduino">fbdc449f87f2701065dda8280cbb3574</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoTDuino">fbdc449f87f2701065dda8280cbb3574</sys_scope>
+        <sys_update_name>sys_metric_bc3ec4d38736701065dda8280cbb3538</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2021-09-29 21:34:21</sys_updated_on>
+        <type>float</type>
+    </sys_metric>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IoTDuino">fbdc449f87f2701065dda8280cbb3574</application>
+        <file_path/>
+        <instance_id>602946fddbb6ec5049eac597059619ac</instance_id>
+        <instance_name>teliaiotdemo</instance_name>
+        <name>sys_metric_bc3ec4d38736701065dda8280cbb3538</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metric"><sys_metric action="INSERT_OR_UPDATE"><application_name>Platform</application_name><auto_promote>false</auto_promote><compact_aggregator>avg</compact_aggregator><dv_aggregator>last</dv_aggregator><dv_resample_hr>1</dv_resample_hr><element>metric</element><label>Metric</label><name>x_snc_iotduino_iotduino_metrics</name><retention_policy display_value="Dense">c742acc05b33220066c1290291f91a6d</retention_policy><subject_field>sys_id</subject_field><sys_class_name>sys_metric</sys_class_name><sys_created_by>mattias.johnsson</sys_created_by><sys_created_on>2021-09-29 19:48:32</sys_created_on><sys_id>bc3ec4d38736701065dda8280cbb3538</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Metric</sys_name><sys_package display_value="IoTDuino" source="x_snc_iotduino">fbdc449f87f2701065dda8280cbb3574</sys_package><sys_policy/><sys_scope display_value="IoTDuino">fbdc449f87f2701065dda8280cbb3574</sys_scope><sys_update_name>sys_metric_bc3ec4d38736701065dda8280cbb3538</sys_update_name><sys_updated_by>mattias.johnsson</sys_updated_by><sys_updated_on>2021-09-29 21:34:21</sys_updated_on><type>float</type></sys_metric></record_update>]]></payload>
+        <payload_hash>-1708053731</payload_hash>
+        <record_name>Metric</record_name>
+        <reverted_from/>
+        <source>bcdd4c938736701065dda8280cbb358a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2021-09-29 21:34:21</sys_created_on>
+        <sys_id>4bc62cdb8776701065dda8280cbb35d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c337ad7cf0000001</sys_recorded_at>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2021-09-29 21:34:21</sys_updated_on>
+        <type>Time Series Metric</type>
+        <update_guid>83c62cdb1b7670101088cd739c4cc8d2</update_guid>
+        <update_guid_history>83c62cdb1b7670101088cd739c4cc8d2:-1708053731,8a95145b653670106584fe8d894f5d60:-1556044445,019e48d378367010ebbdb650e53e2f31:551838473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2021-09-29 21:34:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_metric">sys_metric</sys_db_object>
+        <sys_id>31e35616eb704cea9c039ca7e9f8f669</sys_id>
+        <sys_metadata>bc3ec4d38736701065dda8280cbb3538</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Metric</sys_name>
+        <sys_package display_value="IoTDuino" source="x_snc_iotduino">fbdc449f87f2701065dda8280cbb3574</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IoTDuino">fbdc449f87f2701065dda8280cbb3574</sys_scope>
+        <sys_scope_delete display_value="">404b32db37cf417c9979090da2d30384</sys_scope_delete>
+        <sys_update_name>sys_metric_bc3ec4d38736701065dda8280cbb3538</sys_update_name>
+        <sys_update_version display_value="sys_metric_bc3ec4d38736701065dda8280cbb3538">4bc62cdb8776701065dda8280cbb35d2</sys_update_version>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2021-09-29 21:34:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
